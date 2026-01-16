@@ -16,6 +16,7 @@ wget https://dlcdn.apache.org/maven/maven-3/3.9.12/binaries/apache-maven-3.9.12-
 tar  -xzvf  apache-maven-3.9.12-bin.tar.gz
 mv   apache-maven-3.9.12  maven
 mv    maven  /opt
+cd
 
 vim  .bashrc
 
